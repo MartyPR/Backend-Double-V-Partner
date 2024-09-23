@@ -1,0 +1,6 @@
+@Challenge_Double_V_Partners_HostAddress = http://localhost:5236
+
+GET {{Challenge_Double_V_Partners_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
