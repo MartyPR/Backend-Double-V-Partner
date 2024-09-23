@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\Challenge Double V Partners\Challenge Double V Partners\obj\Debug\net8.0\Challenge Double V Partners.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Challenge Double V Partners\Challenge Double V Partners\obj\Debug\net8.0\Challenge Double V Partners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Challenge Double V Partners\Challenge Double V Partners\obj\Debug\net8.0\Challenge Double V Partners.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Challenge Double V Partners\Challenge Double V Partners\obj\Debug\net8.0\Challenge Double V Partners.AssemblyInfo.cs
+C:\Users\marti\source\repos\Challenge Double V Partners\Challenge Double V Partners\obj\Debug\net8.0\Challenge Double V Partners.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Challenge Double V Partners\Challenge Double V Partners\obj\Debug\net8.0\Challenge Double V Partners.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marti\source\repos\Challenge Double V Partners\Challenge Double V Partners\obj\Debug\net8.0\Challenge Double V Partners.MvcApplicationPartsAssemblyInfo.cache
