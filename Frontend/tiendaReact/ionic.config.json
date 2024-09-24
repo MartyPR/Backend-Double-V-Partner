@@ -1,7 +1,0 @@
-{
-  "name": "tiendaReact",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
